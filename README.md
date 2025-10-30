@@ -1,16 +1,16 @@
-## Hi there 👋
+# Opa! 👋
 
-<!--
-**VitorAuricchio/VitorAuricchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+* 🎓 Cursando Ciência da Computação.
+* 📊 Atuando profissionalmente com Engenharia de Dados.
+* 💡 Focado em automações e soluções de dados.
+* 🌱 Sempre buscando novos desafios e tecnologias para aprender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAuricchio&layout=compact&theme=tokyonight&border_radius=10&hide_title=true" alt="Minhas Linguagens" width="48%" />
+  </a>
+</p>
