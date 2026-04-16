@@ -1,11 +1,10 @@
 # Opa! 👋
 
-### Sobre mim
+### Sobre
 
 * 🎓 Cursando Ciência da Computação.
 * 📊 Atuando profissionalmente com Engenharia de Dados.
 * 💡 Focado em automações e soluções de dados.
-* 🌱 Sempre buscando novos desafios e tecnologias para aprender.
 
 ---
 
