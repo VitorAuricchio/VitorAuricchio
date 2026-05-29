@@ -1,15 +1,7 @@
-# Opa! 👋
-
-### Sobre
-
-* 🎓 Cursando Ciência da Computação.
-* 📊 Atuando profissionalmente com Engenharia de Dados.
-* 💡 Focado em automações e soluções de dados.
-
----
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAuricchio&layout=compact&theme=tokyonight&border_radius=10&hide_title=true" alt="Minhas Linguagens" width="48%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/VitorAuricchio?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-used-languages.vercel.app/VitorAuricchio?theme=light">
+    <img alt="Linguagens mais usadas" src="https://github-used-languages.vercel.app/VitorAuricchio">
+  </picture>
 </p>
